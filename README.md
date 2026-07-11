@@ -4,6 +4,10 @@ An early, self-contained animated landing page for **Solopass** — preserved as
 
 Single `index.html`, no build step. Pure HTML/CSS/JS.
 
+Try it here https://solopass.github.io/solopass-v1/
+
+Nothing crazy but it was exciting back in 2024. I had a monster emoji chasing them around eating the other ones. I should add that back in!
+
 ## Features
 - Neon cyberpunk theme (Orbitron display type, cyan/magenta/yellow palette)
 - Gradient-animated hero title
