@@ -28,3 +28,12 @@ It's fully static — drop the folder on Cloudflare Pages, GitHub Pages, or Netl
 
 ## Notes
 Cleaned up from the original draft: removed a stale `<base>` domain tag, a broken FontAwesome kit and missing audio asset, wired the particle field to an inline config, and made the nav/CTA anchors work.
+
+---
+
+## License
+
+**Source-available, noncommercial.** Copyright © 2026 Solopass. Licensed under the [PolyForm Noncommercial License 1.0.0](LICENSE.md).
+
+- ✅ **Free** for personal use, hobby projects, study and research, and for nonprofits, schools and public institutions.
+- 💼 **Commercial use** (in a business, product or paid service, or for-profit internal use) needs a paid license. See [COMMERCIAL.md](COMMERCIAL.md), or contact [realsolopass@gmail.com](mailto:realsolopass@gmail.com) · <https://polymatica.pages.dev>.
